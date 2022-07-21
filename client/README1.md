@@ -10,3 +10,11 @@ Import file in index.css
 
 We don't hv to push node modules of our Frontend,bcoz we do npm install there on heroku.
 
+ cd server
+ heroku login
+ git init
+ git status
+ git add .
+ git commit -m "v2.0.4"
+ heroku create asu-999
+ 
