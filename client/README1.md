@@ -1,3 +1,8 @@
+Technologies Used:
+Frontend: React.js & Material-UI
+Backend: Node.js & Express.js
+DataBase: MongoDB
+
 MaterialUI is ReactJS Framework which has inbuilted components.
 If we get error while connecting to database then Add you ip in Network Access in mongodb.cloud .
 
